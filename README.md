@@ -1,1 +1,1 @@
-# machine-learning-neural-networks-for-non-linear-data
+Machine learning: Multi-Layer Perceptrons - Neural Networks for More Complex Non-Linear Data. (from Google AI course).
